@@ -16,4 +16,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![image](https://github.com/user-attachments/assets/9bda3f93-92eb-4f5d-aa05-b1d63e7a73a8)
+Nama: Mohamad Saiful Rizal
+  Nim: 362358302005
+  Kelas: TRPL 2A
+
+![image](https://github.com/user-attachments/assets/5227c071-d8b2-4fca-a308-f1d04a7df973)
