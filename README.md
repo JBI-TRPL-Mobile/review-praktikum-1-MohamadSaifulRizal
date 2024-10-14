@@ -17,6 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Nama: Mohamad Saiful Rizal
-Nim: 362358302005
+  Nim: 362358302005
+  Kelas: TRPL 2A
 
 ![image](https://github.com/user-attachments/assets/9bda3f93-92eb-4f5d-aa05-b1d63e7a73a8)
