@@ -39,7 +39,7 @@ class HalamanHome extends StatelessWidget {
               },
               child: Text('DETAIL'),
             ),
-            SizedBox(width: 500,),
+            SizedBox(height: 300,),
           TextButton(
                 onPressed: () {
                   Navigator.pushNamed(context, '/TK');
