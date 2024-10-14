@@ -39,6 +39,15 @@ class HalamanHome extends StatelessWidget {
               },
               child: Text('DETAIL'),
             ),
+            SizedBox(width: 500,),
+          TextButton(
+                onPressed: () {
+                  Navigator.pushNamed(context, '/TK');
+                },
+                child: Text(
+                  'Tentang Kami',
+                  style: TextStyle(color: const Color.fromARGB(255, 13, 13, 13)),
+                )),
         ],
       ),
       ),
